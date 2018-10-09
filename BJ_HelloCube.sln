@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BJ_HelloCube", "BJ_HelloCube\", "{87689FF7-CF6A-4F00-A93C-9E4D89EC6B43}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54687"
+		Debug.AspNetCompiler.PhysicalPath = "BJ_HelloCube\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54687\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54687"
+		Release.AspNetCompiler.PhysicalPath = "BJ_HelloCube\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54687\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54687"
+		SlnRelativePath = "BJ_HelloCube\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87689FF7-CF6A-4F00-A93C-9E4D89EC6B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87689FF7-CF6A-4F00-A93C-9E4D89EC6B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E66C9636-3BC1-4EDC-AD15-0778CA19E291}
+	EndGlobalSection
+EndGlobal
